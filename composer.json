@@ -17,12 +17,6 @@
             "email": "pardanaud.j@gmail.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/Feniksss/rialto"
-        }
-    ],
     "require": {
         "php": ">=7.1",
         "clue/socket-raw": "^1.2",
